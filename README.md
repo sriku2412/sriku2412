@@ -1,6 +1,6 @@
 # About sriku2412
 
-👋 Hi there! I'm [Your Name], a passionate learner and explorer in the world of data science. Transitioning from a background in Mechanical Engineering, I've found a new fascination in the power of data and how it can be harnessed to solve real-world problems.
+👋 Hi there! I'm Sreekanth Potlabathini, a passionate learner and explorer in the world of data science. Transitioning from a background in Mechanical Engineering, I've found a new fascination in the power of data and how it can be harnessed to solve real-world problems.
 
 🔍 My journey into data science is driven by my curiosity and the daily challenges I encounter. Whether it's through Python, CSS, or other technologies, I'm constantly seeking innovative solutions to make a meaningful impact.
 
