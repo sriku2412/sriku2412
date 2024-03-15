@@ -25,5 +25,5 @@
 ---
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/potlabathini/)
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.zohan.tech/api?username=sriku2412&show_icons=true&locale=en&theme=tokyonight" alt="sriku2412" /></p>
 📝 Check out my repositories to see what I've been working on!
