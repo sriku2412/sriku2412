@@ -1,5 +1,11 @@
 # About sriku2412
 
+
+> "Essentially, all models are wrong, but some are useful. However, the approximate nature of the model must always be borne in mind...." - George E. P. Box.
+
+This quote encapsulates a fundamental principle in statistical modeling, analytics, and even in broader contexts where models are used to understand and predict aspects of the real world. It serves as a reminder that while models can provide valuable insights, they are simplifications of reality and should not be mistaken for perfect representations. [All models are wrong](https://en.wikipedia.org/wiki/All_models_are_wrong)
+
+
 👋 Hi there! I'm Sreekanth Potlabathini, a passionate learner and explorer in the world of data science. Transitioning from a background in Mechanical Engineering, I've found a new fascination in the power of data and how it can be harnessed to solve real-world problems.
 
 🔍 My journey into data science is driven by my curiosity and the daily challenges I encounter. Whether it's through Python, CSS, or other technologies, I'm constantly seeking innovative solutions to make a meaningful impact.
