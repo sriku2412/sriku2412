@@ -1,6 +1,8 @@
 # About sriku2412
 
 > "Essentially, all models are wrong, but some are useful..." - [George E. P. Box.](https://en.wikipedia.org/wiki/All_models_are_wrong) <br>
+
+
 This quote encapsulates a fundamental principle in statistical modeling, analytics, and even in broader contexts where models are used to understand and predict aspects of the real world. Thank you to all fellow researchers, supportive professors, and inspiring peers for collaborating and correcting some of my models!
 
 👋 Hi there! I'm Sreekanth Potlabathini, a passionate learner and explorer in the world of data science. Transitioning from a background in Mechanical Engineering, I've found a new fascination in the power of data and how it can be harnessed to solve real-world problems.
